@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-sn = 100
+sn = 100 # only thing to change
 BN = 10
 
 for bl in range(BN):
